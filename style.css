@@ -13,6 +13,18 @@ body {
   padding: 0;
 }
 
+body::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #1e1e24;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #d4d7de;
+}
+
 .navbar{
   position: fixed;
   display: flex;
@@ -138,8 +150,8 @@ p {
   ul.nav {
     position: absolute;
     right: 0px;
-    height: 92vh;
-    top: 8vh;
+    height: 90vh;
+    top: 8.55vh;
     margin-right: 0;
     justify-content: space-around;
     background-color: #d4d7de;
