@@ -1,2 +1,5 @@
-# NavBarFixedSmoothScroll
-Practicing CSS How to make navbar smooth scroll and fixed on the top
+# NavBarFixedSmoothScroll - [Exemple](https://pauloariell.github.io/NavBarFixedSmoothScroll/)
+How to make: 
+- Navbar fixed on top and that doesn't overlap the elements when clicking in an any options from Navbar.
+- Smooth Scrollbar
+
